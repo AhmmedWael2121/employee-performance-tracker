@@ -12,7 +12,7 @@ The application includes:
 
 -------------------------------------------
 ## 🔧 Import Instructions
-1. Download `employee-performance-tracker.sql` from this repo.
+1. Download `Employee_Performance_Oracle_App.sql` from this repo.
 2. In Oracle APEX → App Builder → Import.
 3. Upload the file and follow the wizard.
 4. The application will appear in your workspace with the same ID.
